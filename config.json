@@ -1,0 +1,5 @@
+{
+    "token": "Discord_Bot_Token",
+    "owner_id": "Discord_User_ID",
+    "gemini_api_key": "Gemini_API_Key"
+}
