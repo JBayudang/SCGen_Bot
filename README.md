@@ -1,5 +1,7 @@
 # <div align="center">SCGen Bot</div>
 ###### <div align="center">[Terms of Service](https://soulcalibre.allabout-anything.com/p/scgen-bot-tos.html) | [Privacy Policy](https://soulcalibre.allabout-anything.com/p/scgen-bot-privacy-policy.html)</div>
+# <div align="center">![SCGen Bot](https://github.com/user-attachments/assets/638b4aae-5991-4db0-902b-6f10b0d18bb7)</div>
+
 ### SCGen Bot is an All-Around Discord Server Bot (ADSB). Your All-in-One AI Companion for Creativity, Search &amp; Fun.
 Unleash the full power of Google's latest AI models directly in your Discord server with SCGen Bot, the ultimate All-Around Discord Server Bot (ADSB). Whether you need instant, up-to-date information, a creative spark, a stunning image, or just a good laugh, SCGen Bot delivers.
 
